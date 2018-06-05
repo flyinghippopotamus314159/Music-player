@@ -11,4 +11,4 @@ Finally, this software suite also contains an iterative generator (generative co
 
 -For more details about how Tone, Beat and Note Player work, see their respective files.
 -For copyright info, see licencse.md
--For more information on how the code was written and tools used, see Credits.md
+-For more information on how the code was written and tools used, see Credits.txt
