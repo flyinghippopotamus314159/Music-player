@@ -16,4 +16,3 @@ for i in range(len(sequenceList)-1):
     pitch=pitch*octave
     noteLen=beatLen*float(sequenceList[i+1][2])
     winsound.Beep(math.floor(pitch),math.floor(noteLen))
-
