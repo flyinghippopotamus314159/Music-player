@@ -1,0 +1,2 @@
+Very simply, type a continous list of three-digit Hz values:
+220440880 would play 3 succsessive As
