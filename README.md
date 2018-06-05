@@ -1,8 +1,7 @@
 # Music-player
 # Plays certain pre-programmed music and provides a way to create and play new music.
 This software suite contains the following infinite songs (in python code):
--Serialism: randomly generates serialist music.
--Pi beat: plays pi as a beat
+-Serialism: randomly generates serialist music.                                                                                           -Pi beat: plays pi as a beat
 -Pi notes: plays pi as a series of notes
 This software suite also contains three methods of playing songs:
 -Tone Player: Plays a sequence of tones of ANY frequency
