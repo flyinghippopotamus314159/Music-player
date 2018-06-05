@@ -1,6 +1,6 @@
 """
 Start of sequence= bpm,"ignore"
-Rest of sequence=note:0-11,octave:0-3,length(beats);
+Rest of sequence=note:0-11,octave:1-4,length(beats);
 """
 import re, winsound, math
 sequence=input("Please enter note sequence to play:")
