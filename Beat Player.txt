@@ -1,0 +1,19 @@
+There are ten different beats, each represented by a number 0-9:
+
+0 Silence
+1 Bass Drum
+2 Crash Cymbal
+3 Closed Hi-Hat
+4 Open Hi-Hat
+5 Sidestick 
+6 Snare
+7 Tom
+8 Ride Cymbal
+9 Rim
+
+
+These digits are simply typed in order of playing.
+Try these beats:
+13321332133213321332...
+5558666255586662...
+101110111011...
