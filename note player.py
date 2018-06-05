@@ -1,5 +1,5 @@
 """
-Start of sequence= bpm,sum of all values
+Start of sequence= bpm,"ignore"
 Rest of sequence=note:0-11,octave:0-3,length(beats);
 """
 import re, winsound, math
