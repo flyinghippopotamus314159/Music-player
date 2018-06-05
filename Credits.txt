@@ -1,0 +1,3 @@
+-Software written on PyCharm Community Edition with the aid of IDLE and Github
+-External modules used were re, winsound and math
+-Sounds were written with LMMS with the aid of Audacity
